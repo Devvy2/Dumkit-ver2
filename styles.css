@@ -1,0 +1,20 @@
+#soundButtons {
+  margin-top: 25%;
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+
+button {
+  border: 0.3rem solid rgba(0, 0, 0, 0.675);
+  border-radius: 1rem;
+  font-size: 1.5rem;
+  width: 10rem;
+  height: 8rem;
+  background-color: bisque;
+}
+
+body {
+  background-image: url(./images/david-martin-6NpYOFB3VCI-unsplash.jpg);
+  background-size: cover;
+}
